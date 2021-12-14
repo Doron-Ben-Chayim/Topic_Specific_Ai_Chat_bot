@@ -15,9 +15,9 @@ The backbone of the Generative Chatbot is the DialoGPT model, that can be found 
 	- To create the two required files, run all the code and replace the the word "dog" in the final cell, with whatever subreddit topic you want, and it will proceeded to scrape the selected subreddit and then "Releventise" the scrapped comments to ensure a more precise and refined collection of text is fed into the generative chatbot. 
 
 	# Examples
-![An example of a minecraft conversation](https://photos.app.goo.gl/qPJF3PnTkXE5TM6WA)
+![An example of a minecraft conversation](https://github.com/Doron-Ben-Chayim/Topic_Specific_Ai_Chat_bot/blob/main/minecraft.PNG)
 
-![An example of a game of thrones conversation](https://photos.app.goo.gl/M1EjYuspy4X9efC17)
+![An example of a game of thrones conversation](https://github.com/Doron-Ben-Chayim/Topic_Specific_Ai_Chat_bot/blob/main/game_of_thrones.PNG)
 
 
 
